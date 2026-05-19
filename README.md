@@ -1,4 +1,4 @@
-# DNGSeg: Dynamic Noise-Guided Diffusion via Adaptive Hypothesis Integration for Medical Image Segmentation
+# DNGSeg: Dynamic Noise-Guided Diffusion with Adaptive Hypothesis Integration for Medical Image Segmentation
 
 This repository contains the official implementation of **DNGSeg**, a medical image segmentation framework.
 
